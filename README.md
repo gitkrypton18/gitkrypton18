@@ -1,23 +1,19 @@
-👋 Hi, I’m Kalpit Nagar aka @gitkrypton18!
-.in : https://www.linkedin.com/in/kryptonkalpit18/
+👋 Hi, I’m Kalpit Nagar aka krypton18
+I’m an ECE student who loves coding, DSA, Data Science, and Machine Learning! 🚀 I enjoy solving problems and learning new tech skills.
+🔗 Connect with Me: https://www.linkedin.com/in/kryptonkalpit18/
 
-I'm passionate about coding and Data Structures and Algorithms (DSA). My journey in programming is driven by a thirst for knowledge and an eagerness to solve challenging problems.
+👀 My Interests
 
-👀 Interests:
-Coding: I love writing clean, efficient code and tackling tough problems.
+Writing clean code and solving tough challenges.
+Exploring DSA to create smart, optimized solutions.
+Building data models with Data Science and Machine Learning.
 
-DSA: Delving into the world of data structures and algorithms, optimizing solutions, and exploring new ways to solve complex problems.
+🌱 What I’m Learning
 
-🌱 Currently Learning:
-C++: Mastering one of the most powerful programming languages to solve real-world problems.
+C++ for problem-solving.
+Python for Data Science and ML projects.
+Advanced DSA techniques.
+Data analysis and ML model-building.
 
-DSA: Enhancing my problem-solving skills by learning and applying various data structures and algorithms.
-
-😄 Pronouns: He/His
-✨ Why I'm Here:
-I'm here to learn, share, and grow within the tech community. My goal is to build a strong foundation in C++ and DSA, and eventually expand into other areas like web development. I believe in the power of collaborative learning.
-
-🔗 Connect with Me:
-Feel free to reach out for a chat about coding, collaboration on projects, or just to share ideas. Let’s make this journey exciting and productive!
-
-This version is more concise while still conveying your enthusiasm and passion. Feel free to tweak it as needed! 🚀
+✨ Why I’m Here
+I want to learn, share, and grow in the tech world. My goal is to get strong in C++, DSA, Data Science, and ML, and later try web development. Let’s learn together!
