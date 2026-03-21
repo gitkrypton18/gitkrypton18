@@ -1,0 +1,19 @@
+<svg viewBox="0 0 720 56" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="56" rx="12" fill="#0d1117"/>
+  <rect width="720" height="56" rx="12" fill="none" stroke="#30363d" stroke-width="1.2"/>
+  <rect width="720" height="22" rx="12" fill="#161b22"/>
+  <rect x="0" y="11" width="720" height="11" fill="#161b22"/>
+  <circle cx="22" cy="11" r="5.5" fill="#FF5F57"/>
+  <circle cx="40" cy="11" r="5.5" fill="#FFBD2E"/>
+  <circle cx="58" cy="11" r="5.5" fill="#28CA41"/>
+  <text x="360" y="15" font-family="'SF Mono','Fira Code','Courier New',monospace" font-size="10" fill="#8b949e" text-anchor="middle" dominant-baseline="middle">bash — kalpit@surat</text>
+  <line x1="0" y1="22" x2="720" y2="22" stroke="#30363d" stroke-width="0.8"/>
+  <text x="18" y="42" font-family="'SF Mono','Fira Code','Courier New',monospace" font-size="13.5" fill="#7ee787" font-weight="bold">kalpit@surat</text>
+  <text x="124" y="42" font-family="'SF Mono','Fira Code','Courier New',monospace" font-size="13.5" fill="#8b949e">:</text>
+  <text x="132" y="42" font-family="'SF Mono','Fira Code','Courier New',monospace" font-size="13.5" fill="#79c0ff">~</text>
+  <text x="147" y="42" font-family="'SF Mono','Fira Code','Courier New',monospace" font-size="13.5" fill="#8b949e"> $</text>
+  <text x="168" y="42" font-family="'SF Mono','Fira Code','Courier New',monospace" font-size="13.5" fill="#e6edf3"> ./pacman_graph.sh</text>
+  <rect x="446" y="30" width="8" height="16" fill="#7ee787" rx="1">
+    <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
