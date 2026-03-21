@@ -135,19 +135,13 @@
 <!-- ┌─────────────────────────────────────────────────────────┐ -->
 <!-- │               PAC-MAN CONTRIBUTION GRAPH               │ -->
 <!-- └─────────────────────────────────────────────────────────┘ -->
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/gitkrypton18/gitkrypton18/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gitkrypton18/gitkrypton18/output/pacman-contribution-graph.svg">
-    <img src="https://raw.githubusercontent.com/gitkrypton18/gitkrypton18/output/pacman-contribution-graph.svg" width="100%"/>
-  </picture>
+  <img src="https://raw.githubusercontent.com/gitkrypton18/gitkrypton18/main/pacman-krypton.svg" width="100%" alt="Pac-Man KRYPTON"/>
 </div>
 
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:003320,100:0d1117&height=2" width="100%"/>
-
 <!-- ┌─────────────────────────────────────────────────────────┐ -->
 <!-- │                  GITHUB ANALYTICS                       │ -->
 <!-- └─────────────────────────────────────────────────────────┘ -->
