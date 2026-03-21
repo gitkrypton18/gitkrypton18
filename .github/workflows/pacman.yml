@@ -1,0 +1,53 @@
+name: Generate Pac-Man Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs every day at midnight UTC
+  workflow_dispatch:        # lets you trigger it manually from Actions tab
+  push:
+    branches: [main]        # also runs on every push
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate Pac-Man SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: gitkrypton18
+          outputs: |
+            dist/pacman-contribution-graph.svg?palette=github
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark&color_dots=#00FF41
+
+      - name: Push output to `output` branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+---
+
+## Step 2 — Enable workflow permissions
+
+Go to your repo → **Settings** → **Actions** → **General** → scroll to **Workflow permissions** → select **Read and write permissions** → Save.
+
+---
+
+## Step 3 — Run it manually the first time
+
+Go to **Actions tab** → click **Generate Pac-Man Contribution Graph** → click **Run workflow**. It'll create an `output` branch with the SVG files inside. After that it auto-runs daily.
+
+---
+
+## Step 4 — Your README already has the right URLs
+
+The README I gave you already points to:
+```
+https://raw.githubusercontent.com/gitkrypton18/gitkrypton18/output/pacman-contribution-graph-dark.svg
+https://raw.githubusercontent.com/gitkrypton18/gitkrypton18/output/pacman-contribution-graph.svg
