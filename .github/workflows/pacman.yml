@@ -1,11 +1,11 @@
-name: Generate Pac-Man Contribution Graph
+name: 🟡 Pac-Man Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs every day at midnight UTC
-  workflow_dispatch:        # lets you trigger it manually from Actions tab
+    - cron: "0 0 * * *"    # auto-runs every day at midnight UTC
+  workflow_dispatch:         # manual trigger button in Actions tab
   push:
-    branches: [main]        # also runs on every push
+    branches: [main]         # also runs on every push to main
 
 jobs:
   generate:
@@ -22,7 +22,7 @@ jobs:
             dist/pacman-contribution-graph.svg?palette=github
             dist/pacman-contribution-graph-dark.svg?palette=github-dark&color_dots=#00FF41
 
-      - name: Push output to `output` branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
@@ -33,21 +33,31 @@ jobs:
 
 ---
 
-## Step 2 — Enable workflow permissions
+## 2 — Enable write permissions
 
-Go to your repo → **Settings** → **Actions** → **General** → scroll to **Workflow permissions** → select **Read and write permissions** → Save.
+Your repo → **Settings** → **Actions** → **General**
 
----
+Scroll down to **Workflow permissions** → select **Read and write permissions** → click **Save**
 
-## Step 3 — Run it manually the first time
-
-Go to **Actions tab** → click **Generate Pac-Man Contribution Graph** → click **Run workflow**. It'll create an `output` branch with the SVG files inside. After that it auto-runs daily.
+![permissions location]
 
 ---
 
-## Step 4 — Your README already has the right URLs
+## 3 — Run it manually the first time
 
-The README I gave you already points to:
+Go to your repo → **Actions tab** → you'll see **🟡 Pac-Man Contribution Graph** in the left sidebar → click it → click the **Run workflow** button → **Run workflow** (green button)
+
+It takes about 30 seconds. After it finishes, GitHub will have created an `output` branch in your repo containing:
+```
+output/
+  pacman-contribution-graph.svg
+  pacman-contribution-graph-dark.svg
+```
+
+---
+
+## 4 — Verify it worked
+
+Visit this URL directly in your browser — if you see the SVG it's working:
 ```
 https://raw.githubusercontent.com/gitkrypton18/gitkrypton18/output/pacman-contribution-graph-dark.svg
-https://raw.githubusercontent.com/gitkrypton18/gitkrypton18/output/pacman-contribution-graph.svg
