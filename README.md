@@ -69,7 +69,7 @@
 <!-- │                 FLOATING SKILL ICONS                    │ -->
 <!-- └─────────────────────────────────────────────────────────┘ -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/gitkrypton18/gitkrypton18/main/terminal-tech.svg" width="80%"/>
 </div>
 
@@ -79,7 +79,7 @@
   <img src="https://raw.githubusercontent.com/gitkrypton18/gitkrypton18/main/floating-icons.svg" width="100%" alt="Floating Tech Stack"/>
 </div>
 
-<br>
+<br> -->
 
 <!-- CLICKABLE ICON GRID (skillicons — always renders) -->
 <div align="center">
