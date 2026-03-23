@@ -3,7 +3,7 @@
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
 <!-- TOP BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:003320,100:00FF41&height=220&section=header&text=Kalpit%20Nagar&fontSize=62&fontColor=00FF41&fontAlignY=36&fontAlign=50&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Full-Stack%20Dev%20%E2%80%A2%20NIT%20Surat&descColor=7ee787&descAlignY=58&descAlign=50&animation=fadeIn&stroke=00FF41&strokeWidth=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:003320,100:00FF41&height=220&section=header&text=Kalpit%20Nagar&fontSize=62&fontColor=00FF41&fontAlignY=36&fontAlign=50&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20FastAPI%20Dev%20%E2%80%A2%20NIT%20Surat&descColor=7ee787&descAlignY=58&descAlign=50&animation=fadeIn&stroke=00FF41&strokeWidth=1" width="100%" />
 
 <!-- TYPING ANIMATION -->
 <div align="center">
