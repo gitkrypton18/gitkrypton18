@@ -7,7 +7,7 @@
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=800&color=00FF41&center=true&vCenter=true&random=false&width=750&height=60&lines=%3E+AI+%2F+ML+Engineer+%26+Data+Scientist+%F0%9F%A4%96;%3E+Fast-API-Web-Developer+%F0%9F%8C%90;%3E+B.Tech+E.C.E.+%40+NIT+Surat+%F0%9F%8E%93;%3E+Competitive+Coder+%26+Playback+Singer+%F0%9F%8E%B5" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=800&color=00FF41&center=true&vCenter=true&random=false&width=750&height=60&lines=%3E+AI+%2F+ML+Engineer+%26+Data+Scientist+%F0%9F%A4%96;%3E+Fast+API+Web+Developer+%F0%9F%8C%90;%3E+B.Tech+E.C.E.+%40+NIT+Surat+%F0%9F%8E%93;%3E+Competitive+Coder+%26+Playback+Singer+%F0%9F%8E%B5" />
 </div>
 
 <br>
