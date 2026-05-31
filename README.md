@@ -12,8 +12,14 @@
 
 <br>
 
-<!-- SOCIAL BADGES -->
+<!-- ┌─────────────────────────────────────────────────────────┐ -->
+<!-- │                   SOCIAL PROFILES                       │ -->
+<!-- └─────────────────────────────────────────────────────────┘ -->
+
 <div align="center">
+
+**`— Connect with me —`**
+
   <a href="https://www.linkedin.com/in/kalpitnagar312">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>&nbsp;
@@ -22,13 +28,27 @@
   </a>&nbsp;
   <a href="https://github.com/gitkrypton18">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>&nbsp;
+  </a>
+
+</div>
+
+<br>
+
+<!-- ┌─────────────────────────────────────────────────────────┐ -->
+<!-- │                   CODING PROFILES                       │ -->
+<!-- └─────────────────────────────────────────────────────────┘ -->
+
+<div align="center">
+
+**`— Find me on —`**
+
   <a href="https://leetcode.com/u/krypton_18/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>&nbsp;
   <a href="https://www.kaggle.com/krypton_kalpit">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
+
 </div>
 
 <br>
@@ -65,23 +85,7 @@
 
 <br>
 
-<!-- ┌─────────────────────────────────────────────────────────┐ -->
-<!-- │                 FLOATING SKILL ICONS                    │ -->
-<!-- └─────────────────────────────────────────────────────────┘ -->
-
-<!-- <div align="center">
-  <img src="https://raw.githubusercontent.com/gitkrypton18/gitkrypton18/main/terminal-tech.svg" width="80%"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gitkrypton18/gitkrypton18/main/floating-icons.svg" width="100%" alt="Floating Tech Stack"/>
-</div>
-
-<br> -->
-
-<!-- CLICKABLE ICON GRID (skillicons — always renders) -->
+<!-- CLICKABLE ICON GRID -->
 <div align="center">
 
 **`— Data Science & Visualization —`**
@@ -142,6 +146,7 @@
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:003320,100:0d1117&height=2" width="100%"/>
+
 <!-- ┌─────────────────────────────────────────────────────────┐ -->
 <!-- │                  GITHUB ANALYTICS                       │ -->
 <!-- └─────────────────────────────────────────────────────────┘ -->
@@ -164,6 +169,20 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gitkrypton18&bg_color=0d1117&color=7ee787&line=00FF41&point=00FF41&area_color=003320&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:003320,100:0d1117&height=2" width="100%"/>
+
+<!-- ┌─────────────────────────────────────────────────────────┐ -->
+<!-- │                 💡 DEV QUOTE OF THE DAY                 │ -->
+<!-- └─────────────────────────────────────────────────────────┘ -->
+
+## 💡 Dev Quote of the Day
+
+<div align="center">
+  <img src="./assets/quote-card.svg" width="100%" alt="Dev Quote of the Day" />
 </div>
 
 <br>
