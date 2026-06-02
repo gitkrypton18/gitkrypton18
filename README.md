@@ -45,7 +45,7 @@
   <a href="https://leetcode.com/u/krypton_18/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>&nbsp;
-  <a href="https://www.kaggle.com/krypton_kalpit">
+  <a href="https://www.kaggle.com/kalpitnagar312">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
 
