@@ -73,8 +73,8 @@
 
   <!-- quote text lines -->
   <g class="r1">
-  <text class="qt" x="48" y="82" fill="#e6edf3" font-size="16">You are always your own best guru, your own best teacher, the</text>
-  <text class="qt" x="48" y="110" fill="#e6edf3" font-size="16">answers are always inside you.</text>
+  <text class="qt" x="48" y="82" fill="#e6edf3" font-size="16">Expect the best of yourself, and then do what is necessary to make</text>
+  <text class="qt" x="48" y="110" fill="#e6edf3" font-size="16">it a reality.</text>
   </g>
 
   <!-- divider + attribution -->
@@ -83,7 +83,7 @@
           stroke="url(#aline)" stroke-width="1.5"/>
     <text class="sans" x="148" y="166"
           fill="#7ee787" font-size="14" font-weight="600">
-      &#x2014;&#x2002;Sathya Sai Baba
+      &#x2014;&#x2002;Ralph Marston
     </text>
   </g>
 
