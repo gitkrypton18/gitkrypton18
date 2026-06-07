@@ -73,8 +73,8 @@
 
   <!-- quote text lines -->
   <g class="r1">
-  <text class="qt" x="48" y="82" fill="#e6edf3" font-size="16">The man who asks a question is a fool for a minute, the man who does</text>
-  <text class="qt" x="48" y="110" fill="#e6edf3" font-size="16">not ask is a fool for life.</text>
+  <text class="qt" x="48" y="82" fill="#e6edf3" font-size="16">A lot of people have gone further than they thought they could</text>
+  <text class="qt" x="48" y="110" fill="#e6edf3" font-size="16">because someone else thought they could.</text>
   </g>
 
   <!-- divider + attribution -->
@@ -83,7 +83,7 @@
           stroke="url(#aline)" stroke-width="1.5"/>
     <text class="sans" x="148" y="166"
           fill="#7ee787" font-size="14" font-weight="600">
-      &#x2014;&#x2002;Confucius
+      &#x2014;&#x2002;Zig Ziglar
     </text>
   </g>
 
