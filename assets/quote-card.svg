@@ -73,7 +73,7 @@
 
   <!-- quote text lines -->
   <g class="r1">
-  <text class="qt" x="48" y="82" fill="#e6edf3" font-size="16">Anger begins with folly, and ends with repentance.</text>
+  <text class="qt" x="48" y="82" fill="#e6edf3" font-size="16">Your dream has to be bigger than your fear.</text>
   </g>
 
   <!-- divider + attribution -->
@@ -82,7 +82,7 @@
           stroke="url(#aline)" stroke-width="1.5"/>
     <text class="sans" x="148" y="138"
           fill="#7ee787" font-size="14" font-weight="600">
-      &#x2014;&#x2002;Beverly Sills
+      &#x2014;&#x2002;Steve Harvey
     </text>
   </g>
 
