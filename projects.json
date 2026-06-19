@@ -1,17 +1,17 @@
 [
   {
     "repo": "gitkrypton18/LedgerWatch-AI",
-    "deploy_url": "https://github.com/gitkrypton18/LedgerWatch-AI",
-    "screenshot_path": "https://raw.githubusercontent.com/gitkrypton18/LedgerWatch-AI/main/frontend/src/assets/dashboard_screenshot.png"
+    "deploy_url": "https://ledger-watch-ai.vercel.app/",
+    "screenshot_path": "https://raw.githubusercontent.com/gitkrypton18/LedgerWatch-AI/main/docs/dashboard_after_upload.png"
   },
   {
-    "repo": "gitkrypton18/MuscleUp",
-    "deploy_url": "https://github.com/gitkrypton18/MuscleUp",
-    "screenshot_path": "https://raw.githubusercontent.com/gitkrypton18/MuscleUp/main/assets/dashboard.png"
+    "repo": "gitkrypton18/Muscle-Up-Gym",
+    "deploy_url": "https://muscle-up-gym.vercel.app/",
+    "screenshot_path": "https://raw.githubusercontent.com/gitkrypton18/Muscle-Up-Gym/main/screenshots/admin/02-dashboard.png"
   },
   {
-    "repo": "gitkrypton18/AI-Blog",
-    "deploy_url": "https://github.com/gitkrypton18/AI-Blog",
-    "screenshot_path": "https://raw.githubusercontent.com/gitkrypton18/AI-Blog/main/assets/dashboard.png"
+    "repo": "gitkrypton18/AI-Powered-Blog-Generation",
+    "deploy_url": "https://github.com/gitkrypton18/AI-Powered-Blog-Generation",
+    "screenshot_path": ""
   }
 ]

@@ -137,6 +137,53 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:003320,100:0d1117&height=2" width="100%"/>
 
 <!-- ┌─────────────────────────────────────────────────────────┐ -->
+<!-- │                  FEATURED PROJECTS                      │ -->
+<!-- └─────────────────────────────────────────────────────────┘ -->
+
+<div>
+<img align="right" width="23%" src="https://camo.githubusercontent.com/21b16641945389fde2c47f72ec67463bde7bb8ddf1eefe9951971d14c95e7cf7/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f646b30336261336b742f696d6167652f75706c6f61642f76313733363632313732372f776f726b65725f71726975636b2e706e67"/>
+
+<img src="https://raw.githubusercontent.com/gitkrypton18/gitkrypton18/main/terminal-projects.svg" width="73%"/>
+
+<!-- PROJECTS-START -->
+<!-- This section is dynamically updated by manage_projects.py. Do not edit directly. -->
+
+<div align="center">
+
+### 🟢 [LedgerWatch-AI](https://github.com/gitkrypton18/LedgerWatch-AI)
+
+> Professional project description and implementation details.
+
+<p align="left"> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="https://ledger-watch-ai.vercel.app/"><b>🚀 Live Demo</b></a></p>
+<img src="https://raw.githubusercontent.com/gitkrypton18/LedgerWatch-AI/main/docs/dashboard_after_upload.png" width="100%" style="border-radius: 8px; border: 1px solid #30363d; margin-top: 10px;" alt="LedgerWatch-AI Dashboard" />
+
+<hr style="height: 1px; background-color: #30363d; border: none; margin: 2rem 0;" />
+
+### 🟢 [Muscle-Up-Gym](https://github.com/gitkrypton18/Muscle-Up-Gym)
+
+> Professional project description and implementation details.
+
+<p align="left"> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="https://muscle-up-gym.vercel.app/"><b>🚀 Live Demo</b></a></p>
+<img src="https://raw.githubusercontent.com/gitkrypton18/Muscle-Up-Gym/main/screenshots/admin/02-dashboard.png" width="100%" style="border-radius: 8px; border: 1px solid #30363d; margin-top: 10px;" alt="Muscle-Up-Gym Dashboard" />
+
+<hr style="height: 1px; background-color: #30363d; border: none; margin: 2rem 0;" />
+
+### 🟢 [AI-Powered-Blog-Generation](https://github.com/gitkrypton18/AI-Powered-Blog-Generation)
+
+> Professional project description and implementation details.
+
+<p align="left"> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="https://github.com/gitkrypton18/AI-Powered-Blog-Generation"><b>🚀 Live Demo</b></a></p>
+
+</div>
+<!-- PROJECTS-END -->
+
+</div>
+
+<br clear="all">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:003320,100:0d1117&height=2" width="100%"/>
+
+<!-- ┌─────────────────────────────────────────────────────────┐ -->
 <!-- │               PAC-MAN CONTRIBUTION GRAPH               │ -->
 <!-- └─────────────────────────────────────────────────────────┘ -->
 <div align="center">
@@ -187,53 +234,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:003320,100:0d1117&height=2" width="100%"/>
 
-<!-- ┌─────────────────────────────────────────────────────────┐ -->
-<!-- │                  FEATURED PROJECTS                      │ -->
-<!-- └─────────────────────────────────────────────────────────┘ -->
-
-<div>
-<img align="right" width="23%" src="https://camo.githubusercontent.com/21b16641945389fde2c47f72ec67463bde7bb8ddf1eefe9951971d14c95e7cf7/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f646b30336261336b742f696d6167652f75706c6f61642f76313733363632313732372f776f726b65725f71726975636b2e706e67"/>
-
-<img src="https://raw.githubusercontent.com/gitkrypton18/gitkrypton18/main/terminal-projects.svg" width="73%"/>
-
-<!-- PROJECTS-START -->
-<!-- This section is dynamically updated by manage_projects.py. Do not edit directly. -->
-
-<div align="center">
-
-### 🟢 [LedgerWatch-AI](https://github.com/gitkrypton18/LedgerWatch-AI)
-
-> Professional project description and implementation details.
-
-<p align="left"> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="https://github.com/gitkrypton18/LedgerWatch-AI"><b>🚀 Live Demo</b></a></p>
-<img src="https://raw.githubusercontent.com/gitkrypton18/LedgerWatch-AI/main/frontend/src/assets/dashboard_screenshot.png" width="100%" style="border-radius: 8px; border: 1px solid #30363d; margin-top: 10px;" alt="LedgerWatch-AI Dashboard" />
-
-<hr style="height: 1px; background-color: #30363d; border: none; margin: 2rem 0;" />
-
-### 🟢 [MuscleUp](https://github.com/gitkrypton18/MuscleUp)
-
-> Professional project description and implementation details.
-
-<p align="left"> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="https://github.com/gitkrypton18/MuscleUp"><b>🚀 Live Demo</b></a></p>
-<img src="https://raw.githubusercontent.com/gitkrypton18/MuscleUp/main/assets/dashboard.png" width="100%" style="border-radius: 8px; border: 1px solid #30363d; margin-top: 10px;" alt="MuscleUp Dashboard" />
-
-<hr style="height: 1px; background-color: #30363d; border: none; margin: 2rem 0;" />
-
-### 🟢 [AI-Powered-Blog-Generation](https://github.com/gitkrypton18/AI-Blog)
-
-> Professional project description and implementation details.
-
-<p align="left"> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="https://github.com/gitkrypton18/AI-Blog"><b>🚀 Live Demo</b></a></p>
-<img src="https://raw.githubusercontent.com/gitkrypton18/AI-Blog/main/assets/dashboard.png" width="100%" style="border-radius: 8px; border: 1px solid #30363d; margin-top: 10px;" alt="AI-Powered-Blog-Generation Dashboard" />
-
-</div>
-<!-- PROJECTS-END -->
-
-</div>
-
-<br clear="all">
 
 <!-- BOTTOM WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,40:003320,100:0d1117&height=150&section=footer&text=Let%27s%20build%20something%20extraordinary&fontSize=17&fontColor=7ee787&fontAlignY=62&fontAlign=50&animation=fadeIn" width="100%"/>
