@@ -2,16 +2,22 @@
   {
     "repo": "gitkrypton18/LedgerWatch-AI",
     "deploy_url": "https://ledger-watch-ai.vercel.app/",
-    "screenshot_path": "https://raw.githubusercontent.com/gitkrypton18/LedgerWatch-AI/main/docs/dashboard_after_upload.png"
+    "screenshot_path": "https://raw.githubusercontent.com/gitkrypton18/LedgerWatch-AI/main/docs/dashboard_after_upload.png",
+    "description": "Enterprise-Grade Fraud Detection & Transaction Monitoring Platform. Uses unsupervised Isolation Forest trained on 6.3M rows to detect financial anomalies, calibrated to a 0-100 risk score and explained visually via SHAP waterfall charts.",
+    "tech_stack": ["Python", "FastAPI", "React", "scikit-learn", "TailwindCSS"]
   },
   {
     "repo": "gitkrypton18/Muscle-Up-Gym",
     "deploy_url": "https://muscle-up-gym.vercel.app/",
-    "screenshot_path": "https://raw.githubusercontent.com/gitkrypton18/Muscle-Up-Gym/main/screenshots/admin/02-dashboard.png"
+    "screenshot_path": "https://raw.githubusercontent.com/gitkrypton18/Muscle-Up-Gym/main/screenshots/admin/02-dashboard.png",
+    "description": "Premium, production-grade gym management platform featuring a God-Level 3D user interface, automated WhatsApp reminders, couple membership linking, dynamic settings synchronization, and admin approval systems.",
+    "tech_stack": ["React", "Supabase", "Vite", "TailwindCSS"]
   },
   {
     "repo": "gitkrypton18/AI-Powered-Blog-Generation",
     "deploy_url": "https://github.com/gitkrypton18/AI-Powered-Blog-Generation",
-    "screenshot_path": ""
+    "screenshot_path": "",
+    "description": "Full-stack automated content engine that generates complete blog articles and contextual header images using Hugging Face models. Features a Quill rich-text editor, text tone/SEO regeneration, and multi-format exports.",
+    "tech_stack": ["Node.js", "Express", "MongoDB", "React", "HuggingFace", "TailwindCSS"]
   }
 ]

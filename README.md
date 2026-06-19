@@ -140,10 +140,9 @@
 <!-- │                  FEATURED PROJECTS                      │ -->
 <!-- └─────────────────────────────────────────────────────────┘ -->
 
-<div>
-<img align="right" width="23%" src="https://camo.githubusercontent.com/21b16641945389fde2c47f72ec67463bde7bb8ddf1eefe9951971d14c95e7cf7/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f646b30336261336b742f696d6167652f75706c6f61642f76313733363632313732372f776f726b65725f71726975636b2e706e67"/>
-
-<img src="https://raw.githubusercontent.com/gitkrypton18/gitkrypton18/main/terminal-projects.svg" width="73%"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gitkrypton18/gitkrypton18/main/terminal-projects.svg" width="80%"/>
+</div>
 
 <!-- PROJECTS-START -->
 <!-- This section is dynamically updated by manage_projects.py. Do not edit directly. -->
@@ -152,34 +151,30 @@
 
 ### 🟢 [LedgerWatch-AI](https://github.com/gitkrypton18/LedgerWatch-AI)
 
-> Professional project description and implementation details.
+> Enterprise-Grade Fraud Detection & Transaction Monitoring Platform. Uses unsupervised Isolation Forest trained on 6.3M rows to detect financial anomalies, calibrated to a 0-100 risk score and explained visually via SHAP waterfall charts.
 
-<p align="left"> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="https://ledger-watch-ai.vercel.app/"><b>🚀 Live Demo</b></a></p>
+<p align="left"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Scikit%20Learn-555555?style=flat-square" alt="scikit-learn" /> <img src="https://img.shields.io/badge/Tailwindcss-555555?style=flat-square" alt="TailwindCSS" /> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="https://ledger-watch-ai.vercel.app/"><b>🚀 Live Demo</b></a></p>
 <img src="https://raw.githubusercontent.com/gitkrypton18/LedgerWatch-AI/main/docs/dashboard_after_upload.png" width="100%" style="border-radius: 8px; border: 1px solid #30363d; margin-top: 10px;" alt="LedgerWatch-AI Dashboard" />
 
 <hr style="height: 1px; background-color: #30363d; border: none; margin: 2rem 0;" />
 
 ### 🟢 [Muscle-Up-Gym](https://github.com/gitkrypton18/Muscle-Up-Gym)
 
-> Professional project description and implementation details.
+> Premium, production-grade gym management platform featuring a God-Level 3D user interface, automated WhatsApp reminders, couple membership linking, dynamic settings synchronization, and admin approval systems.
 
-<p align="left"> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="https://muscle-up-gym.vercel.app/"><b>🚀 Live Demo</b></a></p>
+<p align="left"><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Supabase-555555?style=flat-square" alt="Supabase" /> <img src="https://img.shields.io/badge/Vite-555555?style=flat-square" alt="Vite" /> <img src="https://img.shields.io/badge/Tailwindcss-555555?style=flat-square" alt="TailwindCSS" /> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="https://muscle-up-gym.vercel.app/"><b>🚀 Live Demo</b></a></p>
 <img src="https://raw.githubusercontent.com/gitkrypton18/Muscle-Up-Gym/main/screenshots/admin/02-dashboard.png" width="100%" style="border-radius: 8px; border: 1px solid #30363d; margin-top: 10px;" alt="Muscle-Up-Gym Dashboard" />
 
 <hr style="height: 1px; background-color: #30363d; border: none; margin: 2rem 0;" />
 
 ### 🟢 [AI-Powered-Blog-Generation](https://github.com/gitkrypton18/AI-Powered-Blog-Generation)
 
-> Professional project description and implementation details.
+> Full-stack automated content engine that generates complete blog articles and contextual header images using Hugging Face models. Features a Quill rich-text editor, text tone/SEO regeneration, and multi-format exports.
 
-<p align="left"> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="https://github.com/gitkrypton18/AI-Powered-Blog-Generation"><b>🚀 Live Demo</b></a></p>
+<p align="left"><img src="https://img.shields.io/badge/Node.Js-555555?style=flat-square" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-555555?style=flat-square" alt="Express" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-yellow?style=flat-square" alt="HuggingFace" /> <img src="https://img.shields.io/badge/Tailwindcss-555555?style=flat-square" alt="TailwindCSS" /> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="https://github.com/gitkrypton18/AI-Powered-Blog-Generation"><b>🚀 Live Demo</b></a></p>
 
 </div>
 <!-- PROJECTS-END -->
-
-</div>
-
-<br clear="all">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:003320,100:0d1117&height=2" width="100%"/>
 
