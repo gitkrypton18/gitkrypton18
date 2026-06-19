@@ -1,0 +1,17 @@
+[
+  {
+    "repo": "gitkrypton18/LedgerWatch-AI",
+    "deploy_url": "https://github.com/gitkrypton18/LedgerWatch-AI",
+    "screenshot_path": "https://raw.githubusercontent.com/gitkrypton18/LedgerWatch-AI/main/frontend/src/assets/dashboard_screenshot.png"
+  },
+  {
+    "repo": "gitkrypton18/MuscleUp",
+    "deploy_url": "https://github.com/gitkrypton18/MuscleUp",
+    "screenshot_path": "https://raw.githubusercontent.com/gitkrypton18/MuscleUp/main/assets/dashboard.png"
+  },
+  {
+    "repo": "gitkrypton18/AI-Blog",
+    "deploy_url": "https://github.com/gitkrypton18/AI-Blog",
+    "screenshot_path": "https://raw.githubusercontent.com/gitkrypton18/AI-Blog/main/assets/dashboard.png"
+  }
+]

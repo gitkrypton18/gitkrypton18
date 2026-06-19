@@ -1,0 +1,43 @@
+name: 🔄 Sync Featured Projects
+
+on:
+  schedule:
+    - cron: "0 12 * * *"     # Every day at 12 PM UTC
+  workflow_dispatch:         # Allow manual trigger from GitHub UI
+  push:
+    branches: [main]
+    paths:
+      - 'projects.json'
+      - 'manage_projects.py'
+
+permissions:
+  contents: write
+
+jobs:
+  sync-projects:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Sync projects into README
+        run: python manage_projects.py sync
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit & push updated README
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet && echo "No changes." || \
+            git commit -m "chore: sync featured projects [skip ci]" && \
+            git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

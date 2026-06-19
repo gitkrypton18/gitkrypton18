@@ -198,10 +198,38 @@
 
 <img src="https://raw.githubusercontent.com/gitkrypton18/gitkrypton18/main/terminal-projects.svg" width="73%"/>
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| [**🤖 Generative AI Blog Engine**](https://github.com/gitkrypton18/AI-Blog) | Full-stack AI pipeline using HuggingFace APIs for automated content creation, secured with JWT via Node.js/MongoDB backend. | `Python` `HuggingFace` `Docker` `MongoDB` `JWT` |
-| [**🏎️ Autonomous Pathing Robot**](https://github.com/gitkrypton18/Line-Follower-GRP2025) | Autonomous robot using IR sensor data processing and motor control logic via Arduino IDE. | `Arduino` `C++` |
+<!-- PROJECTS-START -->
+<!-- This section is dynamically updated by manage_projects.py. Do not edit directly. -->
+
+<div align="center">
+
+### 🟢 [LedgerWatch-AI](https://github.com/gitkrypton18/LedgerWatch-AI)
+
+> Professional project description and implementation details.
+
+<p align="left"> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="https://github.com/gitkrypton18/LedgerWatch-AI"><b>🚀 Live Demo</b></a></p>
+<img src="https://raw.githubusercontent.com/gitkrypton18/LedgerWatch-AI/main/frontend/src/assets/dashboard_screenshot.png" width="100%" style="border-radius: 8px; border: 1px solid #30363d; margin-top: 10px;" alt="LedgerWatch-AI Dashboard" />
+
+<hr style="height: 1px; background-color: #30363d; border: none; margin: 2rem 0;" />
+
+### 🟢 [MuscleUp](https://github.com/gitkrypton18/MuscleUp)
+
+> Professional project description and implementation details.
+
+<p align="left"> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="https://github.com/gitkrypton18/MuscleUp"><b>🚀 Live Demo</b></a></p>
+<img src="https://raw.githubusercontent.com/gitkrypton18/MuscleUp/main/assets/dashboard.png" width="100%" style="border-radius: 8px; border: 1px solid #30363d; margin-top: 10px;" alt="MuscleUp Dashboard" />
+
+<hr style="height: 1px; background-color: #30363d; border: none; margin: 2rem 0;" />
+
+### 🟢 [AI-Powered-Blog-Generation](https://github.com/gitkrypton18/AI-Blog)
+
+> Professional project description and implementation details.
+
+<p align="left"> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="https://github.com/gitkrypton18/AI-Blog"><b>🚀 Live Demo</b></a></p>
+<img src="https://raw.githubusercontent.com/gitkrypton18/AI-Blog/main/assets/dashboard.png" width="100%" style="border-radius: 8px; border: 1px solid #30363d; margin-top: 10px;" alt="AI-Powered-Blog-Generation Dashboard" />
+
+</div>
+<!-- PROJECTS-END -->
 
 </div>
 
