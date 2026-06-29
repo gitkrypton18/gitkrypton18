@@ -73,7 +73,7 @@
 
   <!-- quote text lines -->
   <g class="r1">
-  <text class="qt" x="48" y="82" fill="#e6edf3" font-size="16">First, solve the problem. Then, write the code.</text>
+  <text class="qt" x="48" y="82" fill="#e6edf3" font-size="16">All leaders are readers.</text>
   </g>
 
   <!-- divider + attribution -->
@@ -82,7 +82,7 @@
           stroke="url(#aline)" stroke-width="1.5"/>
     <text class="sans" x="148" y="138"
           fill="#7ee787" font-size="14" font-weight="600">
-      &#x2014;&#x2002;John Johnson
+      &#x2014;&#x2002;Jim Rohn
     </text>
   </g>
 
