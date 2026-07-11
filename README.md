@@ -20,6 +20,9 @@
 
 **`— Connect with me —`**
 
+  <a href="https://kalpitnagar.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/kalpitnagar312">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>&nbsp;
