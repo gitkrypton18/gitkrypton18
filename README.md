@@ -191,14 +191,6 @@
 
 <br>
 
-<!-- ┌─────────────────────────────────────────────────────────┐ -->
-<!-- │                    GITHUB TROPHIES                      │ -->
-<!-- └─────────────────────────────────────────────────────────┘ -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gitkrypton18&theme=gitdark&no-bg=true&no-frame=true&margin-w=15" alt="gitkrypton18 trophies" />
-</div>
-
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:003320,100:0d1117&height=2" width="100%"/>
 
@@ -209,9 +201,9 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/gitkrypton18/gitkrypton18/main/terminal-analytics.svg" width="80%"/>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=gitkrypton18&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=7ee787&text_color=c9d1d9&ring_color=00FF41" height="170"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=gitkrypton18&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=7ee787&text_color=c9d1d9&ring_color=00FF41" height="170"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitkrypton18&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" height="170"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gitkrypton18&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" height="170"/>
 </div>
 
 <br>
