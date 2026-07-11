@@ -191,6 +191,15 @@
 
 <br>
 
+<!-- ┌─────────────────────────────────────────────────────────┐ -->
+<!-- │                    GITHUB TROPHIES                      │ -->
+<!-- └─────────────────────────────────────────────────────────┘ -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gitkrypton18&theme=gitdark&no-bg=true&no-frame=true&margin-w=15" alt="gitkrypton18 trophies" />
+</div>
+
+<br>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:003320,100:0d1117&height=2" width="100%"/>
 
 <!-- ┌─────────────────────────────────────────────────────────┐ -->
