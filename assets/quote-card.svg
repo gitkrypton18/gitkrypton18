@@ -73,8 +73,8 @@
 
   <!-- quote text lines -->
   <g class="r1">
-  <text class="qt" x="48" y="82" fill="#e6edf3" font-size="16">Death and life have their determined appointments; riches and honors</text>
-  <text class="qt" x="48" y="110" fill="#e6edf3" font-size="16">depend upon heaven.</text>
+  <text class="qt" x="48" y="82" fill="#e6edf3" font-size="16">Would you rather live your life according to the approval of others</text>
+  <text class="qt" x="48" y="110" fill="#e6edf3" font-size="16">or aligned with your truth and your dreams?</text>
   </g>
 
   <!-- divider + attribution -->
@@ -83,7 +83,7 @@
           stroke="url(#aline)" stroke-width="1.5"/>
     <text class="sans" x="148" y="166"
           fill="#7ee787" font-size="14" font-weight="600">
-      &#x2014;&#x2002;Confucius
+      &#x2014;&#x2002;Robin Sharma
     </text>
   </g>
 
