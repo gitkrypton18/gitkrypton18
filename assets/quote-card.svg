@@ -73,8 +73,8 @@
 
   <!-- quote text lines -->
   <g class="r1">
-  <text class="qt" x="48" y="82" fill="#e6edf3" font-size="16">The greatest discovery of all time is that a person can change their</text>
-  <text class="qt" x="48" y="110" fill="#e6edf3" font-size="16">future by merely changing their attitude.</text>
+  <text class="qt" x="48" y="82" fill="#e6edf3" font-size="16">Magic is believing in yourself, if you can do that, you can make</text>
+  <text class="qt" x="48" y="110" fill="#e6edf3" font-size="16">anything happen.</text>
   </g>
 
   <!-- divider + attribution -->
@@ -83,7 +83,7 @@
           stroke="url(#aline)" stroke-width="1.5"/>
     <text class="sans" x="148" y="166"
           fill="#7ee787" font-size="14" font-weight="600">
-      &#x2014;&#x2002;Oprah Winfrey
+      &#x2014;&#x2002;Johann Wolfgang von Goethe
     </text>
   </g>
 
