@@ -73,8 +73,8 @@
 
   <!-- quote text lines -->
   <g class="r1">
-  <text class="qt" x="48" y="82" fill="#e6edf3" font-size="16">Your happiness is what truly matters most. Do what you have to do in</text>
-  <text class="qt" x="48" y="110" fill="#e6edf3" font-size="16">order to be happy.</text>
+  <text class="qt" x="48" y="82" fill="#e6edf3" font-size="16">No one can compete with you on being you. Most of life is a search</text>
+  <text class="qt" x="48" y="110" fill="#e6edf3" font-size="16">for who and what needs you the most.</text>
   </g>
 
   <!-- divider + attribution -->
@@ -83,7 +83,7 @@
           stroke="url(#aline)" stroke-width="1.5"/>
     <text class="sans" x="148" y="166"
           fill="#7ee787" font-size="14" font-weight="600">
-      &#x2014;&#x2002;Brian Tracy
+      &#x2014;&#x2002;Naval Ravikant
     </text>
   </g>
 
