@@ -73,8 +73,8 @@
 
   <!-- quote text lines -->
   <g class="r1">
-  <text class="qt" x="48" y="82" fill="#e6edf3" font-size="16">No one can compete with you on being you. Most of life is a search</text>
-  <text class="qt" x="48" y="110" fill="#e6edf3" font-size="16">for who and what needs you the most.</text>
+  <text class="qt" x="48" y="82" fill="#e6edf3" font-size="16">Why change? Everyone has his own style. When you have found it, you</text>
+  <text class="qt" x="48" y="110" fill="#e6edf3" font-size="16">should stick to it.</text>
   </g>
 
   <!-- divider + attribution -->
@@ -83,7 +83,7 @@
           stroke="url(#aline)" stroke-width="1.5"/>
     <text class="sans" x="148" y="166"
           fill="#7ee787" font-size="14" font-weight="600">
-      &#x2014;&#x2002;Naval Ravikant
+      &#x2014;&#x2002;Audrey Hepburn
     </text>
   </g>
 
