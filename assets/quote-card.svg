@@ -73,8 +73,8 @@
 
   <!-- quote text lines -->
   <g class="r1">
-  <text class="qt" x="48" y="82" fill="#e6edf3" font-size="16">The biggest adventure you can ever take is to live the life of your</text>
-  <text class="qt" x="48" y="110" fill="#e6edf3" font-size="16">dreams.</text>
+  <text class="qt" x="48" y="82" fill="#e6edf3" font-size="16">The quicker you let go of old cheese, the sooner you find new</text>
+  <text class="qt" x="48" y="110" fill="#e6edf3" font-size="16">cheese.</text>
   </g>
 
   <!-- divider + attribution -->
@@ -83,7 +83,7 @@
           stroke="url(#aline)" stroke-width="1.5"/>
     <text class="sans" x="148" y="166"
           fill="#7ee787" font-size="14" font-weight="600">
-      &#x2014;&#x2002;Oprah Winfrey
+      &#x2014;&#x2002;Spencer Johnson
     </text>
   </g>
 
