@@ -73,8 +73,8 @@
 
   <!-- quote text lines -->
   <g class="r1">
-  <text class="qt" x="48" y="82" fill="#e6edf3" font-size="16">A thing constructed can only be loved after it is constructed; but a</text>
-  <text class="qt" x="48" y="110" fill="#e6edf3" font-size="16">thing created is loved before it exists.</text>
+  <text class="qt" x="48" y="82" fill="#e6edf3" font-size="16">Bad things are not the worst things that an happen to us. NOTHING is</text>
+  <text class="qt" x="48" y="110" fill="#e6edf3" font-size="16">the worst thing that can happen to us.</text>
   </g>
 
   <!-- divider + attribution -->
@@ -83,7 +83,7 @@
           stroke="url(#aline)" stroke-width="1.5"/>
     <text class="sans" x="148" y="166"
           fill="#7ee787" font-size="14" font-weight="600">
-      &#x2014;&#x2002;Charles Dickens
+      &#x2014;&#x2002;Richard Bach
     </text>
   </g>
 
