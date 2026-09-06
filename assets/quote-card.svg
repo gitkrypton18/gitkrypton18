@@ -73,8 +73,8 @@
 
   <!-- quote text lines -->
   <g class="r1">
-  <text class="qt" x="48" y="82" fill="#e6edf3" font-size="16">However difficult life may seem, there is always something you can</text>
-  <text class="qt" x="48" y="110" fill="#e6edf3" font-size="16">do and succeed at.</text>
+  <text class="qt" x="48" y="82" fill="#e6edf3" font-size="16">A man with outward courage dares to die: a man with inner courage</text>
+  <text class="qt" x="48" y="110" fill="#e6edf3" font-size="16">dares to live.</text>
   </g>
 
   <!-- divider + attribution -->
@@ -83,7 +83,7 @@
           stroke="url(#aline)" stroke-width="1.5"/>
     <text class="sans" x="148" y="166"
           fill="#7ee787" font-size="14" font-weight="600">
-      &#x2014;&#x2002;Stephen Hawking
+      &#x2014;&#x2002;Lao Tzu
     </text>
   </g>
 
