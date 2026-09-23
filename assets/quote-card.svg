@@ -73,8 +73,8 @@
 
   <!-- quote text lines -->
   <g class="r1">
-  <text class="qt" x="48" y="82" fill="#e6edf3" font-size="16">Every man's work, whether it be literature or music or pictures or</text>
-  <text class="qt" x="48" y="110" fill="#e6edf3" font-size="16">architecture or anything else, is always a portrait of himself.</text>
+  <text class="qt" x="48" y="82" fill="#e6edf3" font-size="16">When we strive to become better than we are, everything around us</text>
+  <text class="qt" x="48" y="110" fill="#e6edf3" font-size="16">becomes better, too.</text>
   </g>
 
   <!-- divider + attribution -->
@@ -83,7 +83,7 @@
           stroke="url(#aline)" stroke-width="1.5"/>
     <text class="sans" x="148" y="166"
           fill="#7ee787" font-size="14" font-weight="600">
-      &#x2014;&#x2002;Samuel Butler
+      &#x2014;&#x2002;Paulo Coelho
     </text>
   </g>
 
