@@ -73,8 +73,8 @@
 
   <!-- quote text lines -->
   <g class="r1">
-  <text class="qt" x="48" y="82" fill="#e6edf3" font-size="16">Success is not how high you have climbed, but how you make a</text>
-  <text class="qt" x="48" y="110" fill="#e6edf3" font-size="16">positive difference to the world.</text>
+  <text class="qt" x="48" y="82" fill="#e6edf3" font-size="16">The first thing you learn in life is you're a fool. The last thing</text>
+  <text class="qt" x="48" y="110" fill="#e6edf3" font-size="16">you learn in life is you're the same fool.</text>
   </g>
 
   <!-- divider + attribution -->
@@ -83,7 +83,7 @@
           stroke="url(#aline)" stroke-width="1.5"/>
     <text class="sans" x="148" y="166"
           fill="#7ee787" font-size="14" font-weight="600">
-      &#x2014;&#x2002;Roy T. Bennett
+      &#x2014;&#x2002;Ray Bradbury
     </text>
   </g>
 
