@@ -73,8 +73,8 @@
 
   <!-- quote text lines -->
   <g class="r1">
-  <text class="qt" x="48" y="82" fill="#e6edf3" font-size="16">If someone betrays you once, it's their fault; if they betray you</text>
-  <text class="qt" x="48" y="110" fill="#e6edf3" font-size="16">twice, it's your fault.</text>
+  <text class="qt" x="48" y="82" fill="#e6edf3" font-size="16">There are more quarrels smothered by just shutting your mouth, and</text>
+  <text class="qt" x="48" y="110" fill="#e6edf3" font-size="16">holding it shut, than by all the wisdom in the world.</text>
   </g>
 
   <!-- divider + attribution -->
@@ -83,7 +83,7 @@
           stroke="url(#aline)" stroke-width="1.5"/>
     <text class="sans" x="148" y="166"
           fill="#7ee787" font-size="14" font-weight="600">
-      &#x2014;&#x2002;Eleanor Roosevelt
+      &#x2014;&#x2002;Henry Ward Beecher
     </text>
   </g>
 
