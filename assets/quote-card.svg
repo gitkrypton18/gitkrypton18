@@ -73,8 +73,8 @@
 
   <!-- quote text lines -->
   <g class="r1">
-  <text class="qt" x="48" y="82" fill="#e6edf3" font-size="16">When you believe in a thing, believe in it all the way, implicitly</text>
-  <text class="qt" x="48" y="110" fill="#e6edf3" font-size="16">and unquestionable.</text>
+  <text class="qt" x="48" y="82" fill="#e6edf3" font-size="16">When something comes from within, when it is a part of you, you have</text>
+  <text class="qt" x="48" y="110" fill="#e6edf3" font-size="16">no choice but to live it, to express it.</text>
   </g>
 
   <!-- divider + attribution -->
@@ -83,7 +83,7 @@
           stroke="url(#aline)" stroke-width="1.5"/>
     <text class="sans" x="148" y="166"
           fill="#7ee787" font-size="14" font-weight="600">
-      &#x2014;&#x2002;Walt Disney
+      &#x2014;&#x2002;Kamal Ravikant
     </text>
   </g>
 
