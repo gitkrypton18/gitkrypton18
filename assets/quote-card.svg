@@ -73,7 +73,7 @@
 
   <!-- quote text lines -->
   <g class="r1">
-  <text class="qt" x="48" y="82" fill="#e6edf3" font-size="16">When the time is gone, you can never get it back.</text>
+  <text class="qt" x="48" y="82" fill="#e6edf3" font-size="16">What the eye doesn't see and the mind doesn't know, doesn't exist.</text>
   </g>
 
   <!-- divider + attribution -->
@@ -82,7 +82,7 @@
           stroke="url(#aline)" stroke-width="1.5"/>
     <text class="sans" x="148" y="138"
           fill="#7ee787" font-size="14" font-weight="600">
-      &#x2014;&#x2002;Stephen King
+      &#x2014;&#x2002;D. H. Lawrence
     </text>
   </g>
 
